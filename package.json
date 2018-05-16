@@ -1,40 +1,9 @@
 {
-    "_args": [
-        [
-            "nativescript-ui-autocomplete@3.7.0",
-            "/Users/caophuc/Projects/campaign-site-mobile"
-        ]
-    ],
-    "_from": "nativescript-ui-autocomplete@3.7.0",
-    "_id": "nativescript-ui-autocomplete@3.7.0",
-    "_inBundle": false,
-    "_integrity": "sha512-upiGMLYUsoTxzog+xfAxPZHz5lLa+rmPOdxzw3UtxP2BV+yJPHS5jxIw8/LNYly5GCMSwrrsEEExnwMwXH/0zg==",
-    "_location": "/nativescript-ui-autocomplete",
-    "_phantomChildren": {},
-    "_requested": {
-        "type": "version",
-        "registry": true,
-        "raw": "nativescript-ui-autocomplete@3.7.0",
-        "name": "nativescript-ui-autocomplete",
-        "escapedName": "nativescript-ui-autocomplete",
-        "rawSpec": "3.7.0",
-        "saveSpec": null,
-        "fetchSpec": "3.7.0"
-    },
-    "_requiredBy": [
-        "/"
-    ],
-    "_resolved": "https://registry.npmjs.org/nativescript-ui-autocomplete/-/nativescript-ui-autocomplete-3.7.0.tgz",
-    "_spec": "3.7.0",
-    "_where": "/Users/caophuc/Projects/campaign-site-mobile",
     "author": {
         "name": "NativeScript Team",
         "email": "nativescriptplugins@progress.com"
     },
     "bootstrapper": "nativescript-plugin-seed",
-    "bugs": {
-        "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
-    },
     "dependencies": {
         "nativescript-ui-core": "^1.0.0"
     },
@@ -60,7 +29,6 @@
         "typescript": "~2.4.2",
         "zone.js": "^0.8.4"
     },
-    "homepage": "https://github.com/telerik/nativescript-ui-feedback",
     "keywords": [
         "NativeScript",
         "JavaScript",
@@ -75,10 +43,6 @@
             "android": "3.4.0",
             "ios": "3.4.0"
         }
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/telerik/nativescript-ui-feedback.git"
     },
     "scripts": {
         "build": "npm i && tsc",
